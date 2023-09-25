@@ -1,2 +1,2 @@
 # maid_coffe
- Uma pagina web para praticar o Bootstrap 
+Aqui neste projeto esta como foco uma landing page com tema Cafeteria onde irei exercitar minhas habilidades com Bootstrap
